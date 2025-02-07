@@ -16,5 +16,8 @@ Used Technologies:
 * ViewPager2 Indicator without using any third-party library
 * DataBinding
 
+https://github.com/user-attachments/assets/0864637b-e2ac-4158-ae7c-d4775db570a0
+
+
 
 
